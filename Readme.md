@@ -1,5 +1,3 @@
-### Hello, Everyone! 👋
-
 ### Halo Semua! 👋
 
 Saya **Dani Harmade**, dan saya dengan bangga mempersembahkan website profil perusahaan **Dragon Club**! 🎉 Website ini dirancang untuk menampilkan profil Dragon Club dengan tampilan modern, responsif, dan interaktif.
